@@ -1,0 +1,23 @@
+{
+  "name": "keyvalue",
+  "version": "0.0.1",
+  "description": "App displays keyvalue",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develiza/keyValue.git"
+  },
+  "author": "Elizabeth de Almeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/develiza/keyValue/issues"
+  },
+  "homepage": "https://github.com/develiza/keyValue#readme"
+}
